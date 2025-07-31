@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  padding: 30px;
+  max-width: 600px;
+  margin: auto;
+  
+}
+
+input, select{
+  padding: 8px;
+  width: 100%;
+  margin-top: 5px;
+  border-radius: 15px;
+}
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding :8px;
+  border-radius: 15px;
+  width:100px;
+  margin-top: 7px;
+  font-size: 16px;
+}
+
